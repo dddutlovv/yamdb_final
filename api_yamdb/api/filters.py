@@ -1,5 +1,4 @@
 import django_filters
-
 from title.models import Title
 
 

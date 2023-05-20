@@ -1,9 +1,7 @@
 from django.contrib import admin
 from django.urls import include, path
 from django.views.generic import TemplateView
-
 from rest_framework.routers import DefaultRouter
-
 from users.views import UserViewSet
 from api.views import TitleViewSet, CategoryViewSet, GenreViewSet
 from reviews.views import CommentViewSet, ReviewViewSet
