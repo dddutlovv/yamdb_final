@@ -2,7 +2,7 @@
 yamdb_final - 16ый спринт
 Итоговое задание - Проект: CI и CD проекта api_yamdb
 
-![example workflow](https://github.com/dddutlovv/yamdb_final/blob/master/.github/workflows/yamdb_workflow.yml./badge.svg)
+![example workflow](https://github.com/dddutlovv/yamdb_final/actions/workflows/master/badge.svg)
 
 API YAMDB
 ====
