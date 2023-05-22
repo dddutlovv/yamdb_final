@@ -4,7 +4,7 @@ yamdb_final - 16ый спринт
 
 ![example workflow](https://github.com/dddutlovv/yamdb_final/actions/workflows/master/badge.svg)
 
-API YAMDB
+ [API YAMDB](http://158.160.3.198/api/v1/)
 ====
 API для получения информации и обсуждения наиболее интересных произведений.
 Для автоматизации развертывания на боевых серверах используется среда виртуализации Docker, а также Docker-compose - инструмент для запуска многоконтейнерных приложений.
